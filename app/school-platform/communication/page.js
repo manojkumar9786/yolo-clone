@@ -27,4 +27,7 @@ export default function CommunicationPage() {
         </div>
       </section>
 
-      { /* Platform Features Section with
+    
+    </main>
+  )
+}
